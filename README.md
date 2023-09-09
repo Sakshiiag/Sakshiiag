@@ -23,7 +23,7 @@ For more projects and contributions, please visit [my GitHub profile](https://gi
 ## Contact Me
 
 - GitHub: [Sakshiiag](https://github.com/Sakshiiag)
-- LinkedIn: [Sakshi Agarwal](linkedin.com/in/sakshi-agarwal-82213b224)
+- LinkedIn: [Sakshi Agarwal](https://linkedin.com/in/sakshi-agarwal-82213b224)
 - Email: sakshiag057@gmail.com
 
 Feel free to reach out if you want to collaborate or just have a friendly chat!
