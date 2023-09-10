@@ -1,10 +1,10 @@
-# Sakshi Agarwal
+# Hii there 👋 I'm Sakshi Agarwal
 
-Full Stack Web Developer
+Currently expanding my knowledge in Full Stack Development
 
 ## About Me
 
-Hello! I'm Sakshi Agarwal, and I'm passionate about web development and learning new skills.
+I'm passionate about web development and I like to design websites and solve the problems related to it.
 
 ## My Skills
 
@@ -26,7 +26,7 @@ For more projects and contributions, please visit [my GitHub profile](https://gi
 - LinkedIn: [Sakshi Agarwal](https://linkedin.com/in/sakshi-agarwal-82213b224)
 - Email: sakshiag057@gmail.com
 
-Feel free to reach out if you want to collaborate or just have a friendly chat!
+Feel free to reach out if you want to collaborate or contibute to open source projects.
 
 ## Thanks for Visiting!
 
