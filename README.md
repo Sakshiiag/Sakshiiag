@@ -1,19 +1,18 @@
 # Hii there 👋 I'm Sakshi Agarwal
 
-Currently expanding my knowledge in Full Stack Development
+Currently expanding my knowledge in Data Analytics.
 
 ## About Me
 
-I'm passionate about web development and I like to design websites and solve the problems related to it.
+Eager to apply my data analysis skills in a dynamic environment. Skilled in SQL, Python and Data Visualization.
 
 ## My Skills
 
-- **Programming Languages:** C++, HTML, CSS, JavaScript, jQuery
-- **Frameworks:** Bootstrap
+- **Programming Languages:** Python, SQL, C++, HTML, CSS, JavaScript, jQuery
 
 
 ## Projects
-
+- [Music_Store_Data_Analysis_project_SQL](https://github.com/Sakshiiag/Music_Store_Data_Analysis_Project_SQL)
 - [Food-ordering-page](https://github.com/Sakshiiag/food-ordering-page): Food ordering user friendly website.
 - [Amazon_page_clone](https://github.com/Sakshiiag/amazon_page_clone): Clone page of amazon.com
 - [Reaction-tester-project](https://github.com/Sakshiiag/Reaction-tester-project): Check your time of reaction by the amazing game
