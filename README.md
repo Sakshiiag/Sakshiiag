@@ -1,10 +1,10 @@
 # Hii there 👋 I'm Sakshi Agarwal
 
-Currently expanding my knowledge in Data Analytics.
+Currently expanding my knowledge in Data Analytics and Machine Learning.
 
 ## About Me
 
-Eager to apply my data analysis skills in a dynamic environment. Skilled in SQL, Python and Data Visualization.
+Eager to apply my data analysis skills in a dynamic environment. Skilled in SQL, Python and Data Visualization, Machine learning.
 
 ## My Skills
 
@@ -12,10 +12,10 @@ Eager to apply my data analysis skills in a dynamic environment. Skilled in SQL,
 
 
 ## Projects
+- [Machine-Failure-Prediction-Model](https://github.com/Sakshiiag/Machine_Failure_Prediction_Model)
+- [Spam-Detection-Project](https://github.com/Sakshiiag/Spam-Detection-Project)
 - [Music_Store_Data_Analysis_project_SQL](https://github.com/Sakshiiag/Music_Store_Data_Analysis_Project_SQL)
-- [Food-ordering-page](https://github.com/Sakshiiag/food-ordering-page): Food ordering user friendly website.
-- [Amazon_page_clone](https://github.com/Sakshiiag/amazon_page_clone): Clone page of amazon.com
-- [Reaction-tester-project](https://github.com/Sakshiiag/Reaction-tester-project): Check your time of reaction by the amazing game
+- [Zomato-Data-Analysis](https://github.com/Sakshiiag/Zomato-data-analysis-using-python)
 
 For more projects and contributions, please visit [my GitHub profile](https://github.com/Sakshiiag).
 
