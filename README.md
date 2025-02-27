@@ -8,7 +8,8 @@ Eager to apply my data analysis skills in a dynamic environment. Skilled in SQL,
 
 ## My Skills
 
-- **Programming Languages:** Python, SQL, C++, HTML, CSS, JavaScript, jQuery
+- **Tools:** Python, SQL, Power BI, Excel, MySQL, JavaScript, jQuery, C++, HTML, CSS
+ 
 
 
 ## Projects
